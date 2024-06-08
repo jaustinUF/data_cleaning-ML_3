@@ -27,8 +27,3 @@ My copy: My Drive > Colab Notebooks > data-cleaning-techniques.ipynb
 Adapted from 'Advanced Data Cleaning Techniques"
 https://colab.research.google.com/drive/14t-s8cR_p4K2cOaOxEmdfqPoH8jJvhEM#scrollTo=dNRdvmYTO0ek
 See also https://www.w3schools.com/python/pandas/pandas_cleaning.asp
-
-The action of every agent <br />
-  into the world <br />
-starts <br />
-  from their physical selves. <br />
