@@ -1,7 +1,7 @@
 #### Feature Engineering
 - Create features:  df['new_feature'] = df['col1'] / df['col2']  
 - Log transformation: np.log1p(), np.log()  
-- Binning:        pd.cut(), pd.qcut()  
+- Binning:    pd.cut(), pd.qcut()  
 - Date time:      df['year'] = pd.to_datetime(df['date_column']).dt.year  
 - Value mapping:  mapping = {'Low' : 0, 'High': 1}, df['mapped'] = df['feature'].map(mapping)
 
