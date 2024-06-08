@@ -1,4 +1,4 @@
-## Data Cleaning Techniques (ML_3)
+## Data Cleaning Techniques (ML_3), finished 6/7/2024
 This project has two python scripts:
 - 'generate&inspect_dataset.py': build a dataset from random choice and selection, 100 rows by 9 columns (features), and save the data in the file 'cleaned_dataset.csv'
 - 'data_cleaning_techniques.py': read file into the dataset 'df' and perform the various operations listed below.
