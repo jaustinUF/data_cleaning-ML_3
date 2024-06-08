@@ -1,0 +1,104 @@
+ID,Age,Gender,Income,Date of Joining,City,Happiness Score,Email_Postal,Education
+1,35,female,30000.0,2020-01-01,phoenix,200,"fkyg(7)@somewhere.com,61810",Master
+2,60,Female,90000.0,2020-01-02,Los Angeles,80,"qsjg(32)@somewhere.com,20108",Associate
+3,35,Female,30000.0,2020-01-03,Houston,90,"tdpl(99)@somewhere.com,60294",Bachelor
+4,60,female,90000.0,2020-01-04,los angeles,80,"odua(54)@somewhere.com,61437",Associate
+5,70,Female,110000.0,2020-01-05,HOUSTON,200,"qbse(72)@somewhere.com,63739",Bachelor
+6,35,M,110000.0,2020-01-06,los angeles,100,"zmrh(18)@somewhere.com,47569",Bachelor
+7,45,Male,90000.0,2020-01-07,New york,90,"datl(39)@somewhere.com,67264",Master
+8,70,F,90000.0,2020-01-08,,60,"vsgk(49)@somewhere.com,57602",Master
+9,50,Female,30000.0,2020-01-09,Chicago,60,"ppmi(92)@somewhere.com,43570",Master
+10,70,male,70000.0,2020-01-10,Chicago,50,"moag(37)@somewhere.com,57159",Master
+11,50,Male,,2020-01-11,phoenix,100,"jwug(46)@somewhere.com,92245",Master
+12,45,male,30000.0,2020-01-12,Houston,70,"dvqh(53)@somewhere.com,42060",Associate
+13,50,M,90000.0,2020-01-13,Phoenix,50,"wzda(13)@somewhere.com,51405",Master
+14,40,F,110000.0,2020-01-14,phoenix,100,"capt(30)@somewhere.com,61810",Bachelor
+15,35,male,90000.0,2020-01-15,HOUSTON,50,"ebvl(3)@somewhere.com,85077",Master
+16,30,M,90000.0,2020-01-16,,50,"zdvb(83)@somewhere.com,78424",Master
+17,50,F,110000.0,2020-01-17,phoenix,70,"dpfe(58)@somewhere.com,88156",Associate
+18,30,male,110000.0,2020-01-18,Chicago,200,"leyr(62)@somewhere.com,72185",Bachelor
+19,60,female,110000.0,2020-01-19,los angeles,70,"rkrm(81)@somewhere.com,39199",PhD
+20,50,Male,30000.0,2020-01-20,,50,"bmqn(5)@somewhere.com,43570",Bachelor
+21,60,M,110000.0,2020-01-21,New York,200,"eoaa(11)@somewhere.com,63739",Bachelor
+22,50,Female,30000.0,2020-01-22,,200,"jifm(61)@somewhere.com,63739",PhD
+23,45,M,70000.0,2020-01-23,,70,"qvbw(50)@somewhere.com,60294",Associate
+24,25,F,50000.0,2020-01-24,Chicago,150,"rgqv(67)@somewhere.com,57159",PhD
+25,40,F,110000.0,2020-01-25,Chicago,50,"zmrh(18)@somewhere.com,76395",Bachelor
+26,60,Male,30000.0,2020-01-26,,90,"zooq(93)@somewhere.com,16627",Master
+27,35,Female,70000.0,2020-01-27,phoenix,100,"khbd(98)@somewhere.com,20106",Master
+28,70,F,90000.0,2020-01-28,,100,"rzff(79)@somewhere.com,56340",Bachelor
+29,35,Female,,2020-01-29,New york,60,"tjxv(68)@somewhere.com,59487",PhD
+30,45,Male,30000.0,2020-01-30,HOUSTON,100,"imum(20)@somewhere.com,61437",Master
+31,45,Male,70000.0,2020-01-31,,50,"ccqg(66)@somewhere.com,10034",Associate
+32,30,Female,,2020-02-01,Chicago,70,"xeew(41)@somewhere.com,10986",PhD
+33,30,M,110000.0,2020-02-02,chicago,70,"vjgz(2)@somewhere.com,11955",Associate
+34,45,female,90000.0,2020-02-03,Houston,50,"azqs(85)@somewhere.com,48373",Master
+35,50,M,110000.0,2020-02-04,New York,50,"skba(95)@somewhere.com,28540",Bachelor
+36,30,male,90000.0,2020-02-05,,200,"qbse(72)@somewhere.com,68313",Bachelor
+37,45,Female,90000.0,2020-02-06,New york,50,"zndk(12)@somewhere.com,30264",Bachelor
+38,35,female,,2020-02-07,Phoenix,90,"xvxi(64)@somewhere.com,10986",Associate
+39,50,F,,2020-02-08,chicago,60,"wpff(42)@somewhere.com,43960",Bachelor
+40,60,female,110000.0,2020-02-09,HOUSTON,50,"jfhu(76)@somewhere.com,78271",PhD
+41,50,female,70000.0,2020-02-10,los angeles,200,"ccqg(66)@somewhere.com,15106",PhD
+42,35,female,90000.0,2020-02-11,Chicago,90,"rxyx(86)@somewhere.com,57159",Master
+43,40,Female,50000.0,2020-02-12,HOUSTON,90,"tjxv(68)@somewhere.com,38935",PhD
+44,30,female,110000.0,2020-02-13,los angeles,80,"jifm(61)@somewhere.com,93077",Bachelor
+45,70,M,110000.0,2020-02-14,Houston,90,"pfyw(22)@somewhere.com,15106",Bachelor
+46,25,Male,50000.0,2020-02-15,Chicago,70,"eblm(75)@somewhere.com,94561",Master
+47,70,Female,,2020-02-16,Chicago,70,"lgwz(80)@somewhere.com,80319",Associate
+48,50,female,110000.0,2020-02-17,Los Angeles,100,"hbyf(57)@somewhere.com,48849",Master
+49,40,Female,,2020-02-18,Houston,90,"sxzu(65)@somewhere.com,62757",Master
+50,25,F,90000.0,2020-02-19,HOUSTON,70,"capt(30)@somewhere.com,59612",PhD
+51,25,M,110000.0,2020-02-20,,80,"dvqh(53)@somewhere.com,83922",Master
+52,60,F,30000.0,2020-02-21,New York,80,"soly(36)@somewhere.com,11955",PhD
+53,70,female,110000.0,2020-02-22,Chicago,60,"dkyb(94)@somewhere.com,50023",PhD
+54,60,male,70000.0,2020-02-23,phoenix,80,"alxe(26)@somewhere.com,58778",PhD
+55,40,Female,70000.0,2020-02-24,,90,"gtba(29)@somewhere.com,79743",PhD
+56,45,M,70000.0,2020-02-25,,50,"oqds(51)@somewhere.com,68487",Associate
+57,25,M,,2020-02-26,New york,100,"tblv(60)@somewhere.com,85985",Bachelor
+58,45,male,50000.0,2020-02-27,Los Angeles,80,"tjxv(68)@somewhere.com,75082",Associate
+59,45,male,50000.0,2020-02-28,Phoenix,200,"jaos(78)@somewhere.com,75082",Master
+60,60,Female,50000.0,2020-02-29,chicago,60,"bsco(34)@somewhere.com,30102",Master
+61,40,Female,110000.0,2020-03-01,Los Angeles,200,"spxw(44)@somewhere.com,75082",Bachelor
+62,70,Female,30000.0,2020-03-02,Chicago,200,"wpff(42)@somewhere.com,39199",Associate
+63,30,Male,,2020-03-03,chicago,90,"kwiy(25)@somewhere.com,30102",Associate
+64,50,Male,,2020-03-04,los angeles,60,"rxyx(86)@somewhere.com,44305",Master
+65,35,Male,50000.0,2020-03-05,New York,50,"pdsm(47)@somewhere.com,63739",Master
+66,30,Male,,2020-03-06,HOUSTON,70,"alxe(26)@somewhere.com,87310",PhD
+67,35,female,110000.0,2020-03-07,chicago,90,"eoaa(11)@somewhere.com,57602",Associate
+68,45,female,110000.0,2020-03-08,Los Angeles,60,"jaos(78)@somewhere.com,68932",PhD
+69,35,Male,110000.0,2020-03-09,los angeles,200,"qqmq(4)@somewhere.com,41944",Bachelor
+70,70,Female,90000.0,2020-03-10,HOUSTON,90,"tjxv(68)@somewhere.com,60602",Associate
+71,70,Female,110000.0,2020-03-11,New York,50,"moag(37)@somewhere.com,97868",PhD
+72,60,male,,2020-03-12,Chicago,100,"skba(95)@somewhere.com,41944",Master
+73,50,M,,2020-03-13,Houston,100,"vctv(8)@somewhere.com,79743",Associate
+74,60,Female,50000.0,2020-03-14,Chicago,90,"zmrh(18)@somewhere.com,76395",Associate
+75,35,Male,30000.0,2020-03-15,phoenix,50,"zfrq(84)@somewhere.com,57602",Master
+76,50,Male,110000.0,2020-03-16,chicago,200,"tjxv(68)@somewhere.com,94666",Associate
+77,45,Male,30000.0,2020-03-17,Chicago,80,"vjgz(2)@somewhere.com,44305",Master
+78,70,Female,110000.0,2020-03-18,Phoenix,60,"datl(39)@somewhere.com,39199",Associate
+79,35,F,30000.0,2020-03-19,Chicago,100,"ixxv(33)@somewhere.com,28872",Master
+80,45,F,110000.0,2020-03-20,los angeles,90,"gtba(29)@somewhere.com,85626",Associate
+81,25,female,110000.0,2020-03-21,HOUSTON,150,"qgwi(9)@somewhere.com,58224",Master
+82,40,M,90000.0,2020-03-22,chicago,200,"dvqh(53)@somewhere.com,85077",Master
+83,45,M,90000.0,2020-03-23,HOUSTON,80,"moag(37)@somewhere.com,14595",Master
+84,60,female,,2020-03-24,chicago,100,"wnlo(91)@somewhere.com,86999",PhD
+85,30,Female,50000.0,2020-03-25,phoenix,90,"zooq(93)@somewhere.com,10675",Bachelor
+86,30,female,110000.0,2020-03-26,Phoenix,70,"eoaa(11)@somewhere.com,44305",Master
+87,30,Male,30000.0,2020-03-27,chicago,70,"ewqc(38)@somewhere.com,38935",PhD
+88,25,male,110000.0,2020-03-28,Los Angeles,60,"zndk(12)@somewhere.com,58224",Bachelor
+89,35,Female,110000.0,2020-03-29,New York,200,"oeti(28)@somewhere.com,42060",Master
+90,60,Male,,2020-03-30,Houston,100,"agyt(48)@somewhere.com,43960",Associate
+91,30,F,30000.0,2020-03-31,los angeles,150,"oqds(51)@somewhere.com,42060",Master
+92,60,M,,2020-04-01,Chicago,70,"ufdw(17)@somewhere.com,84923",Bachelor
+93,30,M,,2020-04-02,los angeles,50,"cxyu(40)@somewhere.com,43960",Bachelor
+94,70,F,70000.0,2020-04-03,New York,80,"pdsm(47)@somewhere.com,48373",PhD
+95,35,Female,30000.0,2020-04-04,los angeles,70,"ewqc(38)@somewhere.com,48849",PhD
+96,30,male,,2020-04-05,Houston,50,"tbix(88)@somewhere.com,15106",PhD
+97,25,female,50000.0,2020-04-06,chicago,50,"zfrq(84)@somewhere.com,11955",Bachelor
+98,60,Female,70000.0,2020-04-07,Phoenix,60,"anxj(73)@somewhere.com,15106",PhD
+99,50,F,300000.0,2020-04-08,Los Angeles,50,"kwiy(25)@somewhere.com,73017",Associate
+100,35,male,110000.0,2020-04-09,los angeles,150,"ydyk(24)@somewhere.com,38935",PhD
+100,35,male,110000.0,2020-04-09,los angeles,150,"ydyk(24)@somewhere.com,38935",PhD
+40,60,female,110000.0,2020-02-09,HOUSTON,50,"jfhu(76)@somewhere.com,78271",PhD
+99,50,F,300000.0,2020-04-08,Los Angeles,50,"kwiy(25)@somewhere.com,73017",Associate
