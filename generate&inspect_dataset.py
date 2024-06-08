@@ -44,7 +44,7 @@ def inspect(dataframe):
     print(f'Info:')
     print(f'{dataframe.info()}\n*   *   *   *   *')
 
-# df.to_csv('cleaning_dataset.csv', index=False)                # saved after generation
+# df.to_csv('cleaned_dataset.csv', index=False)                # saved after generation
 '''df1 = pd.read_csv('cleaned_dataset.csv')                       # retrieved as test
 df1.attrs['name'] = "df1"                                       # test dataframe named
 inspect(df1)  '''                                                  # inspect dataframe

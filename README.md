@@ -1,5 +1,8 @@
-** Data Cleaning Techniques (ML_3)
-Techniques and issues covered
+## Data Cleaning Techniques (ML_3)
+This project has two python scripts:
+- 'generate&inspect_dataset.py': build a dataset from random choice and selection, 100 rows by 9 columns (features), and save the data in the file 'cleaned_dataset.csv'
+- 'data_cleaning_techniques.py': reads the file into the dataset 'df', and performs the various operations listed below.
+#### Techniques and issues covered
 - Standardization
 - Data Types
 - Duplicates
@@ -9,7 +12,7 @@ Techniques and issues covered
 - Categorical Data
 - Normalize (Scale) Data
 - Feature Engineering
-***Basic data cleaning
+### Basic data cleaning
 Standardize dataset and data
     - column names: lower case, space-to-underscore, remove whitespace
     - 'city': lower-case
@@ -31,7 +34,7 @@ String Editing/Manipulation (see data_cleaning_techniques.py for notes and doco 
     - str.split to split into two columns: 'email' and 'postal'
     - str.extract to extract copy of first part of 'email' into new column 'name'
     - drop 'email_postal'
-***Advanced Data Processing
+### Advanced Data Processing
 Categorical Data
     - 'education': label encoded
         - sklearn 'LabelEncoder'
@@ -48,7 +51,7 @@ Feature Engineering
     - add 'year', 'month', 'day' columns (features) from 'date_of_joining' column
     - group 'income' data in new column 'income_groups' (similar to histogram)
 
-***Generate simple data set (generate&inspect_dataset.py)
+### Generate simple data set (generate&inspect_dataset.py)
     - (103 x 9) with missing data, outliers, and duplicates.
     - note 'Gender' and 'City' have consistencies (multiple formats)
     - create function with dataframe inspection methods
