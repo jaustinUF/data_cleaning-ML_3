@@ -1,4 +1,4 @@
-
+#### Feature Engineering
 Create features:    df['new_feature'] = df['col1'] / df['col2']  
 Log transformation:	np.log1p(), np.log()  
 Binning:		    pd.cut(), pd.qcut()  
@@ -20,11 +20,8 @@ TargetEncoder: for high-cardinality categorical features (large number of unique
 - encode based on relationship with the target variable.
 - replace each category with the mean of the target variable for that category. 
 
-Missing Values
-(good discussion of imputation)
-
-Note: the Colab notebook is the tutorial; contains a lot of (good) notes!
-
+Missing Values: discussion of imputation  
+Note: the Colab notebook is the tutorial; good notes.  
 My copy: My Drive > Colab Notebooks > data-cleaning-techniques.ipynb
 
 Adapted from 'Advanced Data Cleaning Techniques"
