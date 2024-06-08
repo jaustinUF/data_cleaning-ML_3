@@ -12,13 +12,13 @@
 - Normalizer: scales each data point independently based on sum of squares of each column (feature).
 
 #### Encoding Categorical Data
-LabelEncoder: for ordinal categorical data (order or ranking among categories)
-- education levels "high school," "college," and "graduate" encoded as 0, 1, and 2.
-OneHotEncoder: Each category represented by binary column (1/True/presence of the category; 0/False/absence.
-- for nominal categorical data with no inherent order among categories; suitable when number of categories is small.
-TargetEncoder: for high-cardinality categorical features (large number of unique categories)
-- encode based on relationship with the target variable.
-- replace each category with the mean of the target variable for that category. 
+- LabelEncoder: for ordinal categorical data (order or ranking among categories)
+  - education levels "high school," "college," and "graduate" encoded as 0, 1, and 2.
+- OneHotEncoder: Each category represented by binary column (1/True/presence of the category; 0/False/absence.
+  - for nominal categorical data with no inherent order among categories; suitable when number of categories is small.
+- TargetEncoder: for high-cardinality categorical features (large number of unique categories)
+  - encode based on relationship with the target variable.
+  - replace each category with the mean of the target variable for that category. 
 
 Missing Values: discussion of imputation  
 Note: the Colab notebook is the tutorial; good notes.  
