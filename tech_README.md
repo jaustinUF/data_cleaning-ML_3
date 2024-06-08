@@ -1,5 +1,5 @@
 #### Feature Engineering
-- Create features:    &nbsp     df['new_feature'] = df['col1'] / df['col2']  
+- Create features:    df['new_feature'] = df['col1'] / df['col2']  
 - Log transformation: np.log1p(), np.log()  
 - Binning:            pd.cut(), pd.qcut()  
 - Date time:          df['year'] = pd.to_datetime(df['date_column']).dt.year  
@@ -27,3 +27,8 @@ My copy: My Drive > Colab Notebooks > data-cleaning-techniques.ipynb
 Adapted from 'Advanced Data Cleaning Techniques"
 https://colab.research.google.com/drive/14t-s8cR_p4K2cOaOxEmdfqPoH8jJvhEM#scrollTo=dNRdvmYTO0ek
 See also https://www.w3schools.com/python/pandas/pandas_cleaning.asp
+
+The action of every agent <br />
+  into the world <br />
+starts <br />
+  from their physical selves. <br />
