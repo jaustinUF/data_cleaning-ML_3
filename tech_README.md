@@ -1,5 +1,5 @@
 #### Feature Engineering
-- Create features:          df['new_feature'] = df['col1'] / df['col2']  
+- Create features:    -&nbsp-     df['new_feature'] = df['col1'] / df['col2']  
 - Log transformation: np.log1p(), np.log()  
 - Binning:            pd.cut(), pd.qcut()  
 - Date time:          df['year'] = pd.to_datetime(df['date_column']).dt.year  
