@@ -61,8 +61,8 @@ This project has two python scripts:
   - name dataset
   - inspect dataset
 
-Adapted from 'Advanced Data Cleaning Techniques"
-https://colab.research.google.com/drive/14t-s8cR_p4K2cOaOxEmdfqPoH8jJvhEM#scrollTo=dNRdvmYTO0ek
+Adapted from 'Advanced Data Cleaning Techniques" into Python script from notbook
+#### https://colab.research.google.com/drive/14t-s8cR_p4K2cOaOxEmdfqPoH8jJvhEM#scrollTo=dNRdvmYTO0ek
 
 
 
